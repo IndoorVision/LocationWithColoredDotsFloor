@@ -1,7 +1,7 @@
 %YAML:1.0
 ---
 #图像路径
-imgPath: Mate2000.jpg
+imgPath: Mate20.jpg
 
 #图像降采样次数(视图像分辨率而定，默认为2)
 downSampleTimes: 2
